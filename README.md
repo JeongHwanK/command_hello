@@ -10,4 +10,4 @@
 -------------
 # 프로젝트
 
-[pygame] = https://www.pygame.org/news
+[pygame] : https://www.pygame.org/news
