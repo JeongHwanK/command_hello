@@ -22,8 +22,14 @@ python3 flappy_final.py
 ## 게임설명
 
 * UFO가 장애물을 피하면서 점수를 얻는 게임이다.
-* 조작법은 <kbd>space</kbd>키나 <kbd>&uarr;</kbd>키를 통해 UFO가 장애물을 통과함
 
+* 조작법은 <kbd>space</kbd>키나 <kbd>&uarr;</kbd>키를 통해 UFO가 장애물에 닿지 않도록 합니다
+
+*
 
 ## 업데이트 내용
+
+## 참고한 Repository
+
+* [flapPybird](https://github.com/Cc618/FlapPyBird.git)
 
