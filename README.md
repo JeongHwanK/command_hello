@@ -34,7 +34,7 @@ python3 flappy_final.py
 
 * v2.0.0 기존 장애물과 player 이미지를 수정, 유령과 공격 이미지를 추가하였습니다.
 
-* v2.1.0 UFO가 장애물에 닿으면 장애물이 파과되는 furyMode를 추가하고 <kbd>A</kbd>키로 유령을 공격하여 추가점수를 얻을수 있습니다
+* v2.1.0 UFO가 장애물에 닿으면 장애물이 파과되는 furyMode를 추가하고 <kbd>A</kbd>키로 유령을 공격하여 추가점수를 얻을수 있습니다.
 
 ## 참고한 Repository
 
