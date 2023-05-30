@@ -12,11 +12,12 @@
 1. [python](https://www.python.org/),[pygame](https://www.pygame.org),[pycharm](https://www.jetbrains.com/ko-kr/pycharm/download/)설치
 
 2. 깃허브 저장소를 로컬저장소에 클론 후 실행 
-```
+
+```mac os
 $git clone https://github.com/Vetenir/DuProject.git
 python3 flappy_final.py
 ```
-위는 MAC의 경우 터미널에서 실행가능하며 윈도우는 클론한 폴더를 pycharm으로 열어 실행가능
+윈도우는 클론한 폴더를 pycharm으로 열어 실행가능
 
 ## 게임설명
 
