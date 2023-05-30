@@ -13,7 +13,7 @@
 
 2. 깃허브 저장소를 로컬저장소에 클론 후 실행 
 
-```mac os
+``` mac os
 $git clone https://github.com/Vetenir/DuProject.git
 python3 flappy_final.py
 ```
